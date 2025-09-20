@@ -27,11 +27,6 @@ You can view the notebook directly in this repository. GitHub will automatically
 
 **➡️ [Click here to view the Food Marketing Data Analysis Notebook](Food_Marketing_Data_Analysis_project.ipynb)**
 
-### 2. View the HTML File
-
-For a quick and static view, you can open the HTML file.
-
-**➡ [Click here to view the analysis as an HTML page](Food_Marketing_Data_Analysis_project.html)**
 
 ## Key Findings & Summary
 
